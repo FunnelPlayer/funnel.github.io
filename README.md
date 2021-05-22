@@ -1,2 +1,2 @@
 # funnel.github.io
-Run awesome Scratch games
+Scratch project runner
